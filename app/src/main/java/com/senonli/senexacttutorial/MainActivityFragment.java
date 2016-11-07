@@ -1,4 +1,4 @@
-package com.senonli.senlearnandroid;
+package com.senonli.senexacttutorial;
 
 import android.support.v4.app.Fragment;
 import android.os.Bundle;
@@ -16,7 +16,7 @@ public class MainActivityFragment extends Fragment {
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
-            Bundle savedInstanceState) {
+                             Bundle savedInstanceState) {
         return inflater.inflate(R.layout.fragment_main, container, false);
     }
 }
