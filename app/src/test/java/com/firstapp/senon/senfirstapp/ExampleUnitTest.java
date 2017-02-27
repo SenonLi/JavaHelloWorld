@@ -1,4 +1,4 @@
-package com.senonli.senlearnandroid;
+package com.firstapp.senon.senfirstapp;
 
 import org.junit.Test;
 

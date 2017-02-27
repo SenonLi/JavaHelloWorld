@@ -1,4 +1,4 @@
-package com.senonli.senlearnandroid;
+package com.firstapp.senon.senfirstapp;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.senonli.senlearnandroid", appContext.getPackageName());
+        assertEquals("com.firstapp.senon.senfirstapp", appContext.getPackageName());
     }
 }
